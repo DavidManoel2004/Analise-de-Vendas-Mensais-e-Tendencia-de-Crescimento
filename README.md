@@ -31,6 +31,6 @@ O projeto demonstrou proficiência em:
 * Agregação de dados (`groupby`).
 * Criação de métricas de negócio (`pct_change`).
 
-**Próximo Projeto:** Análise de Correlação entre Desmatamento e Índice Educacional.
+**Próximo Projeto:** Análise de Desmatamento.
 
 | **LinkedIn** | [David Manoel] |
